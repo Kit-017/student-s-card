@@ -57,6 +57,7 @@ p {
     width: 300;
     height: 350px;
     margin: 0 20px 30px 0;
+    border-radius: 15px;
 }
 .maintext {
     max-width: 550px;
